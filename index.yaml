@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  su-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-07-31T17:13:17.8522767+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 6b8dfde332d9c3cb148b67919e49fd8a31d2544834028fbdb185b010cd5430d6
+    name: su-helm-chart
+    type: application
+    urls:
+    - su-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-31T17:13:17.8517689+09:00"
